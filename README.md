@@ -5,7 +5,7 @@
 
 WeatherPro is a powerful UI application built using Next.js. It provides users with real-time weather information fetched from the OpenWeatherMap API. The application features a user-friendly interface and supports both light and dark themes.
 
-![WeatherPro Preview](https://postimg.cc/56zHXY4N][img]https://i.postimg.cc/56zHXY4N/Screenshot-2024-05-27-004939.png)
+![WeatherPro Preview](https://postimg.cc/56zHXY4N)
 
 
 ## Features
