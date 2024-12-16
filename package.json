@@ -1,11 +1,12 @@
 {
-  "name": "weatherPro",
+  "name": "weatherpro",
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "push": "node git-push.mjs"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.0.5",
@@ -18,6 +19,7 @@
     "clsx": "^2.1.0",
     "cmdk": "^0.2.1",
     "embla-carousel-react": "^8.0.0-rc22",
+    "inquirer": "^7.3.3",
     "leaflet": "^1.9.4",
     "lodash": "^4.17.21",
     "lucide-react": "^0.323.0",
