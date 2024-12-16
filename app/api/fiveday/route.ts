@@ -1,9 +1,10 @@
 import axios from "axios";
 import { NextRequest, NextResponse } from "next/server";
+const apiKey = process.env.OPENWEATHERMAP_API_KEY;
 
 export async function GET(req: NextRequest) {
   try {
-    const apiKey = process.env.OPENWEATHERMAP_API_KEY;
+
 
     const searchParams = req.nextUrl.searchParams;
 
