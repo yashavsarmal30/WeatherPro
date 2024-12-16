@@ -7,6 +7,7 @@
     "start": "next start",
     "lint": "next lint",
     "push": "node git-push.mjs"
+      
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.0.5",
